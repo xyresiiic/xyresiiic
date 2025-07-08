@@ -1,62 +1,75 @@
-<h1 align="center">Hey there, I'm <span style="color:#00bfff;">Veer</span> 👋</h1>
-<h3 align="center">Aspiring C++ Developer 💻 | Tech Explorer 🚀 | Visual Storyteller 📸</h3>
+<!-- Professional GitHub README for Veer Singh -->
+
+<h1 align="center">✨ Hey, I'm Veer</h1>
+<h3 align="center">C++ Developer in Progress 🧑‍💻 | Visual Artist 📷 | Tech Explorer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Code.+Click.+Create.;C%2B%2B%20Developer%20in%20the%20Making;Photography%20is%20my%20Lens%20of%20Life&font=Fira%20Code&center=true&width=440&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Code.+Click.+Create.;C%2B%2B+%7C+Photography+%7C+Visual+Design;Always+Learning+Something+New" />
 </p>
 
 ---
 
-## 💡 About Me
+## 🧠 About Me
 
-🎓 I'm a B.Tech student on a mission to turn logic into creativity.  
-🧠 Passionate about **C++**, problem-solving, and building clean, simple apps.  
-📚 Always learning — currently diving deeper into data structures and algorithms.  
-📷 On weekends, you'll find me capturing light, color, and emotion through my lens.
+I’m a curious and driven B.Tech student with a creative twist — blending code and composition. I recently wrapped up an internship at **CodSoft**, where I built beginner-friendly C++ console apps focused on logic and simplicity.
 
-🛠️ Recently completed an internship at **CodSoft**, where I created fun beginner C++ apps like:
-- 🧮 Calculator  
-- ✅ To-Do List  
-- 🎯 Number Guessing Game
+When I'm not coding, I’m behind the lens, editing reels, or experimenting with visual design.  
+> “Tech feeds my brain. Art feeds my soul.” 🎨⚙️
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🔧 Skills & Tools
 
-| 💻 Languages | ⚙️ Tools & IDEs | 🎨 Creative Stack |
-|-------------|----------------|------------------|
-| `C++`, `C`  | `VS Code`, `Git`, `GitHub` | `Photoshop`, `Lightroom`, `CapCut` |
+### 💻 Languages & Development
+- `C++`, `C`
+- Version Control: `Git`, `GitHub`
+- Code Editor: `VS Code`
+
+### 🎬 Creative Suite
+- 🖼️ **Photo Editing**: `Photoshop`, `Lightroom`
+- 🎥 **Video Editing**: `VN (VlogNow)`, `CapCut`
+- 🧠 Content Design & Creation
 
 ---
 
-## 🚀 GitHub Stats
+## 🚀 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xyresiiic&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyresiiic&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xyresiiic&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyresiiic&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 📂 Highlighted Projects
 
-🔹 [**CodSoft Internship Projects**](https://github.com/xyresiiic/CODSOFT)  
-Beginner-friendly C++ console apps: Calculator, To-Do List, Number Guess Game.
+### 🧮 [CodSoft Internship Projects](https://github.com/xyresiiic/CODSOFT)
+Built basic yet practical apps in C++:
+- 📟 Calculator  
+- 📝 To-Do List  
+- 🎯 Number Guessing Game  
 
-🔹 **Portfolio Website** _(Coming Soon)_  
-A sleek, minimal dark-mode portfolio to showcase my work in photography and development.
+### 🌐 Portfolio Website (Coming Soon)
+A minimal, dark-themed portfolio designed to showcase my developer journey, photography, and editing projects — with sleek transitions and personal branding.
 
 ---
 
-## 📬 Connect With Me
+## 🤝 Let’s Connect
 
 <p align="left">
-  <a href="mailto:xyresiiic@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/ivee.rrr"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://github.com/xyresiiic"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:xyresiiic@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ivee.rrr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/xyresiiic">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<p align="center"><b>“Code. Click. Create.”</b> — my mantra to grow every day 🌱</p>
-<p align="center">Thanks for stopping by! ⭐</p>
+## ✨ Personal Motto
+<p align="center"><b>“Code. Click. Create.”</b></p>
+<p align="center">Thanks for visiting — let’s build and inspire! 🌱</p>

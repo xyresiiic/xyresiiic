@@ -1,4 +1,4 @@
-<!-- ✨ Professional GitHub Profile README for Veer Singh -->
+<!-- ✨ GitHub Profile README for Veer Singh -->
 
 <h1 align="center">Hey, I'm <span style="color:#00bfff;">Veer</span> 👋</h1>
 <h3 align="center">C++ Developer in Progress 💻 | Visual Artist 📸 | Tech Explorer 🚀</h3>
@@ -12,8 +12,8 @@
 ## 🧠 About Me
 
 - 🎓 B.Tech student passionate about **C++**, problem-solving, and building cool things.
-- 🛠️ Recently completed internship at **CodSoft**, developing beginner-friendly C++ console apps.
-- 📸 On the creative side, I do **photo editing, videography**, and content design using **VN**, **Photoshop**, and **Lightroom**.
+- 🛠️ Completed internship at **CodSoft**, where I built C++ console apps.
+- 📸 On the creative side, I do **Photo editing, Video editing, Videography**, and content design using **VN**, **Photoshop**, and **Lightroom**.
 - ⚡ Motto: _“Code. Click. Create.”_
 
 ---
@@ -22,9 +22,9 @@
 
 <table>
   <tr>
-    <td><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40"/></td>
-    <td><img src="https://img.icons8.com/ios-filled/50/000000/c.png" alt="C" width="40"/></td>
-    <td><img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="40"/></td>
+    <td><img src="https://img.icons8.com/ios-filled/50/c.png" alt="C" width="40"/></td>
+    <td><img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="VS Code" width="40"/></td>
     <td><img src="https://img.icons8.com/glyph-neue/64/github.png" alt="GitHub" width="40"/></td>
     <td><img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="Photoshop" width="40"/></td>
     <td><img src="https://img.icons8.com/color/48/adobe-lightroom.png" alt="Lightroom" width="40"/></td>
@@ -37,7 +37,7 @@
     <td>GitHub</td>
     <td>Photoshop</td>
     <td>Lightroom</td>
-    <td>VN (VlogNow)</td>
+    <td>VN</td>
   </tr>
 </table>
 
@@ -46,11 +46,11 @@
 ## 📂 Featured Projects
 
 🔹 [**CodSoft Internship Projects**](https://github.com/xyresiiic/CODSOFT)  
-C++ console applications:  
+Console apps built with C++:  
 🧮 Calculator • 📝 To-Do List • 🎯 Number Guessing Game  
 
 🔹 **Portfolio Website** *(Coming Soon)*  
-A modern, dark-themed portfolio to showcase my photography and coding work.
+A sleek, dark-themed portfolio showcasing my photography and code journey.
 
 ---
 
@@ -72,6 +72,9 @@ A modern, dark-themed portfolio to showcase my photography and coding work.
   <a href="https://instagram.com/ivee.rrr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/veer-singh-xyresiiic" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://github.com/xyresiiic" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -80,5 +83,6 @@ A modern, dark-themed portfolio to showcase my photography and coding work.
 ---
 
 ## ✨ Signature
+
 <p align="center"><b>“Code. Click. Create.”</b></p>
-<p align="center">Thanks for stopping by 🌱</p>
+<p align="center">Thanks for visiting 🌱</p>

@@ -1,19 +1,19 @@
-<!-- ✨ GitHub Profile README for Veer Singh -->
-
 <h1 align="center">Hey, I'm <span style="color:#00bfff;">Veer</span> 👋</h1>
-<h3 align="center">C++ Developer in Progress 💻 | Visual Artist 📸 | Tech Explorer 🚀</h3>
+<h3 align="center">C++ & Web Developer 🖥️ | Visual Storyteller 📸 | Tech Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Code.+Click.+Create.;C%2B%2B+%7C+Photography+%7C+VN+Editor;Always+Learning+Something+New" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Code.+Click.+Create.;C%2B%2B+|+HTML+CSS+JS+|+Photography;Internships+@+CodSoft+%26+Codalpha" alt="Typing SVG">
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 B.Tech student passionate about **C++**, problem-solving, and building cool things.
-- 🛠️ Completed internship at **CodSoft**, where I built C++ console apps.
-- 📸 On the creative side, I do **Photo editing, Video editing, Videography**, and content design using **VN**, **Photoshop**, and **Lightroom**.
+- 🎓 B.Tech student at Arya College of Engineering (2028)
+- 💻 Passionate about C++, Front-End Web Development, and problem-solving
+- 🌐 Exploring HTML, CSS, and JavaScript for building cool web projects
+- 🛠️ Completed internships at **CodSoft** & **Codalpha**
+- 📸 Skilled in **Photography, Videography, Video Editing**, and **Graphic Designing**
 - ⚡ Motto: _“Code. Click. Create.”_
 
 ---
@@ -24,6 +24,9 @@
   <tr>
     <td><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="40"/></td>
     <td><img src="https://img.icons8.com/ios-filled/50/c.png" alt="C" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/css3.png" alt="CSS" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40"/></td>
     <td><img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="VS Code" width="40"/></td>
     <td><img src="https://img.icons8.com/glyph-neue/64/github.png" alt="GitHub" width="40"/></td>
     <td><img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="Photoshop" width="40"/></td>
@@ -33,28 +36,50 @@
   <tr>
     <td>C++</td>
     <td>C</td>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>JavaScript</td>
     <td>VS Code</td>
     <td>GitHub</td>
     <td>Photoshop</td>
     <td>Lightroom</td>
-    <td>VN</td>
+    <td>VN Editor</td>
   </tr>
 </table>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Projects
 
-🔹 [**CodSoft Internship Projects**](https://github.com/xyresiiic/CODSOFT)  
-Console apps built with C++:  
+🔹 [**Basic Calculator**](https://xyresiiic.github.io/Basic_calculator/)  -Responsive web calculator for basic arithmetic operations  
+
+🔹 [**CodSoft Internship Projects**](https://github.com/xyresiiic/CODSOFT)  -C++ Console Applications:  
 🧮 Calculator • 📝 To-Do List • 🎯 Number Guessing Game  
 
-🔹 **Portfolio Website** *(Coming Soon)*  
-A sleek, dark-themed portfolio showcasing my photography and code journey.
+🔹 [**CGPA Calculator**](https://github.com/xyresiiic/codealpha_projects/blob/main/cgpa%20calculator.cpp). 
+Calculates academic performance with a clean UI  
+
+🔹 [**Login & Registration System**](https://github.com/xyresiiic/codealpha_projects/blob/main/login%26registrationsyatem.cpp) 
+Basic authentication simulation using C++  
+
+🔹 [**Too Do List**](https://github.com/xyresiiic/CODSOFT/blob/main/TO.DO.LIST.cpp) -Responsive web calculator for basic arithmetic operations  
+
+🔹 [**Guess Game**](https://github.com/xyresiiic/CODSOFT/blob/main/guessgame.cpp) -Responsive web calculator for basic arithmetic operations  
+
+
 
 ---
 
-## 📊 GitHub Stats
+## 📜 Certifications
+
+- 🛠 **Basics of Quadcopter** – *IIT Roorkee*
+- 🔐 **Blockchain Technology** – *IIT Roorkee*
+- 🌐 **Web Development Fundamentals** – *IBM*
+- 💼 **Virtual Tech Internship** – *Deloitte (Forage)*
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xyresiiic&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -63,16 +88,16 @@ A sleek, dark-themed portfolio showcasing my photography and code journey.
 
 ---
 
-## 🔗 Connect with Me
+## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:xyresiiic@gmail.com" target="_blank">
+  <a href="mailto:xyresiiic@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/ivee.rrr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/veer-singh-xyresiiic" target="_blank">
+  <a href="https://linkedin.com/in/veer-pratap-singh-77702b316" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/xyresiiic" target="_blank">
@@ -85,4 +110,4 @@ A sleek, dark-themed portfolio showcasing my photography and code journey.
 ## ✨ Signature
 
 <p align="center"><b>“Code. Click. Create.”</b></p>
-<p align="center">Thanks for visiting 🌱</p>
+<p align="center">Thanks for stopping by! 🚀</p>

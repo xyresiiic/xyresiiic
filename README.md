@@ -76,6 +76,8 @@ Basic authentication simulation using C++
 - 🔐 **Blockchain Technology** – *IIT Roorkee*
 - 🌐 **Web Development Fundamentals** – *IBM*
 - 💼 **Virtual Tech Internship** – *Deloitte (Forage)*
+- 💻 **Solution architecture Job Simulation** – *AWS (Forage)*
+- 🧰 **GenAI Powered Data Analytics Job Simulation** – *Tata (Forage)*
 
 ---
 

@@ -57,14 +57,14 @@
 🧮 Calculator • 📝 To-Do List • 🎯 Number Guessing Game  
 
 🔹 [**CGPA Calculator**](https://github.com/xyresiiic/codealpha_projects/blob/main/cgpa%20calculator.cpp). 
-Calculates academic performance with a clean UI  
+-Calculates academic performance with a clean UI  
 
 🔹 [**Login & Registration System**](https://github.com/xyresiiic/codealpha_projects/blob/main/login%26registrationsyatem.cpp) 
-Basic authentication simulation using C++  
+-Basic authentication simulation using C++  
 
-🔹 [**Too Do List**](https://github.com/xyresiiic/CODSOFT/blob/main/TO.DO.LIST.cpp) -Responsive web calculator for basic arithmetic operations  
+🔹 [**Too Do List**](https://github.com/xyresiiic/CODSOFT/blob/main/TO.DO.LIST.cpp) -Simple console-based task manager to add, view, and delete tasks using C++  
 
-🔹 [**Guess Game**](https://github.com/xyresiiic/CODSOFT/blob/main/guessgame.cpp) -Responsive web calculator for basic arithmetic operations  
+🔹 [**Guess Game**](https://github.com/xyresiiic/CODSOFT/blob/main/guessgame.cpp) -Interactive C++ game where users try to guess a randomly generated number. 
 
 
 
@@ -76,6 +76,7 @@ Basic authentication simulation using C++
 - 🔐 **Blockchain Technology** – *IIT Roorkee*
 - 🌐 **Web Development Fundamentals** – *IBM*
 - 💼 **Virtual Tech Internship** – *Deloitte (Forage)*
+- 🖥️ **Softwere Engineering job simulation** - *Accenture (Forage)*
 - 💻 **Solution architecture Job Simulation** – *AWS (Forage)*
 - 🧰 **GenAI Powered Data Analytics Job Simulation** – *Tata (Forage)*
 

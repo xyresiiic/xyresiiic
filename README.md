@@ -49,6 +49,7 @@
 
 ---
 
+
 ## 🚀 Projects
 
 🔹 [**Basic Calculator**](https://xyresiiic.github.io/Basic_calculator/)  -Responsive web calculator for basic arithmetic operations  
@@ -56,15 +57,18 @@
 🔹 [**CodSoft Internship Projects**](https://github.com/xyresiiic/CODSOFT)  -C++ Console Applications:  
 🧮 Calculator • 📝 To-Do List • 🎯 Number Guessing Game  
 
-🔹 [**CGPA Calculator**](https://github.com/xyresiiic/codealpha_projects/blob/main/cgpa%20calculator.cpp). 
--Calculates academic performance with a clean UI  
+🔹 [**Portfolio Website**](https://xyresiiic.github.io/Portfolio/)  -Minimal, animated portfolio website featuring projects, skills, and contact details  
 
-🔹 [**Login & Registration System**](https://github.com/xyresiiic/codealpha_projects/blob/main/login%26registrationsyatem.cpp) 
--Basic authentication simulation using C++  
+🔹 [**Landing Page – Lustréva**](https://xyresiiic.github.io/Landinge-page/)  -Elegant gifting website landing page with sections like Hero, About Us, Why Us?, Collections, and Contact  
 
-🔹 [**Too Do List**](https://github.com/xyresiiic/CODSOFT/blob/main/TO.DO.LIST.cpp) -Simple console-based task manager to add, view, and delete tasks using C++  
+🔹 [**CGPA Calculator**](https://github.com/xyresiiic/codealpha_projects/blob/main/cgpa%20calculator.cpp)  -Calculates academic performance with a clean UI  
 
-🔹 [**Guess Game**](https://github.com/xyresiiic/CODSOFT/blob/main/guessgame.cpp) -Interactive C++ game where users try to guess a randomly generated number. 
+🔹 [**Login & Registration System**](https://github.com/xyresiiic/codealpha_projects/blob/main/login%26registrationsyatem.cpp)  -Basic authentication simulation using C++  
+
+🔹 [**Too Do List**](https://github.com/xyresiiic/CODSOFT/blob/main/TO.DO.LIST.cpp)  -Simple console-based task manager to add, view, and delete tasks using C++  
+
+🔹 [**Guess Game**](https://github.com/xyresiiic/CODSOFT/blob/main/guessgame.cpp)  -Interactive C++ game where users try to guess a randomly generated number.  
+
 
 
 

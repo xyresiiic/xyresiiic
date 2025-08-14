@@ -83,6 +83,8 @@
 - 🖥️ **Softwere Engineering job simulation** - *Accenture (Forage)*
 - 💻 **Solution architecture Job Simulation** – *AWS (Forage)*
 - 🧰 **GenAI Powered Data Analytics Job Simulation** – *Tata (Forage)*
+- 🗂️ **Internship certificate in Web Development** – *Codsoft*
+- 📱 **Internship Certificate in C++ Programming** – *CodeAlpha*
 
 ---
 

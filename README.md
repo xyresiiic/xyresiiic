@@ -90,14 +90,25 @@
 
 ---
 
-## 📈 GitHub Stats
+
+## 📊 GitHub Stats
+
+![Veer's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyresiiic&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=xyresiiic&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xyresiiic&layout=compact&theme=tokyonight)
+
+---
+
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xyresiiic&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyresiiic&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://komarev.com/ghpvc/?username=xyresiiic&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
+
 
 ## 📫 Contact Me
 
@@ -121,4 +132,6 @@
 ## ✨ Signature
 
 <p align="center"><b>“Code. Click. Create.”</b></p>
-<p align="center">Thanks for stopping by! 🚀</p>
+<p align="center">Thanks for stopping by! 🤗 
+
+

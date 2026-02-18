@@ -10,8 +10,8 @@
 ## 🧠 About Me
 
 - 🎓 B.Tech student at Arya College of Engineering (2028)
-- 💻 Passionate about C++, Front-End Web Development, and problem-solving
-- 🌐 Exploring HTML, CSS, and JavaScript for building cool web projects
+- 💻 Passionate about C, C++, Front-End Web Development, and problem-solving
+- 🌐 Exploring HTML, CSS, Java and JavaScript for building cool projects
 - 🛠️ Completed internships at **CodSoft** & **Codalpha**
 - 📸 Skilled in **Photography, Videography, Video Editing**, and **Graphic Designing**
 - ⚡ Motto: _“Code. Click. Create.”_
@@ -54,12 +54,14 @@
 
 🔹 [**Basic Calculator**](https://xyresiiic.github.io/Basic_calculator/)  -Responsive web calculator for basic arithmetic operations  
 
-🔹 [**CodSoft Internship Projects**](https://github.com/xyresiiic/CODSOFT)  -C++ Console Applications:  
-🧮 Calculator • 📝 To-Do List • 🎯 Number Guessing Game  
-
 🔹 [**Portfolio Website**](https://xyresiiic.github.io/Portfolio/)  -Minimal, animated portfolio website featuring projects, skills, and contact details  
 
+🔹 [**Medic Soul(health assistant)**](https://xyresiiic.github.io/madicSoul/)  - A health assistant website with chat bot and may other health related features.
+
 🔹 [**Landing Page – Lustréva**](https://xyresiiic.github.io/Landinge-page/)  -Elegant gifting website landing page with sections like Hero, About Us, Why Us?, Collections, and Contact  
+
+🔹 [**CodSoft Internship Projects**](https://github.com/xyresiiic/CODSOFT)  -C++ Console Applications:  
+🧮 Calculator • 📝 To-Do List • 🎯 Number Guessing Game  
 
 🔹 [**CGPA Calculator**](https://github.com/xyresiiic/codealpha_projects/blob/main/cgpa%20calculator.cpp)  -Calculates academic performance with a clean UI  
 

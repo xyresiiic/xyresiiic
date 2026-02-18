@@ -2,7 +2,7 @@
 <h3 align="center">C++ & Web Developer 🖥️ | Visual Storyteller 📸 | Tech Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Code.+Click.+Create.;C%2B%2B+|+HTML+CSS+JS+|+Photography;Ex-Intern+@+CodSoft+%26+Codalpha" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Code.+Click.+Create.;C+C%2B%2B+|+HTML+CSS+JS+|+Photography;Ex-Intern+@+CodSoft+%26+Codalpha" alt="Typing SVG">
 </p>
 
 ---

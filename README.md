@@ -2,7 +2,7 @@
 <h3 align="center">C++ & Web Developer 🖥️ | Visual Storyteller 📸 | Tech Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Code.+Click.+Create.;C+C%2B%2B+|+HTML+CSS+JS+|+Photography;Ex-Intern+@+CodSoft+%26+Codalpha" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Code.+Click.+Create.;Java+C+C%2B%2B+|+HTML+CSS+JS+|+Photography;Ex-Intern+@+CodSoft+%26+Codalpha" alt="Typing SVG">
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## 🧠 About Me
 
 - 🎓 B.Tech student at Arya College of Engineering (2028)
-- 💻 Passionate about C, C++, Front-End Web Development, and problem-solving
+- 💻 Passionate about C, C++, Java, Front-End Web Development, and problem-solving
 - 🌐 Exploring HTML, CSS, Java and JavaScript for building cool projects
 - 🛠️ Completed internships at **CodSoft** & **Codalpha**
 - 📸 Skilled in **Photography, Videography, Video Editing**, and **Graphic Designing**
@@ -24,6 +24,7 @@
   <tr>
     <td><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="40"/></td>
     <td><img src="https://img.icons8.com/ios-filled/50/c.png" alt="C" width="40"/></td>
+   <td><img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" width="40"/></td>
     <td><img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" width="40"/></td>
     <td><img src="https://img.icons8.com/color/48/css3.png" alt="CSS" width="40"/></td>
     <td><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40"/></td>
@@ -36,6 +37,7 @@
   <tr>
     <td>C++</td>
     <td>C</td>
+    <td>Java</td>
     <td>HTML</td>
     <td>CSS</td>
     <td>JavaScript</td>

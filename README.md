@@ -32,7 +32,7 @@
     <td><img src="https://img.icons8.com/glyph-neue/64/github.png" alt="GitHub" width="40"/></td>
     <td><img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="Photoshop" width="40"/></td>
     <td><img src="https://img.icons8.com/color/48/adobe-lightroom.png" alt="Lightroom" width="40"/></td>
-    <td><img src="https://play-lh.googleusercontent.com/Z3mHyYQ_pR5jO1mio-xN9L0uR91H11Mg_tLoIRlRSnMWhVxIijUoBIBnfwg6nxNo1Q=w240-h480-rw" alt="VN" width="40"/></td>
+    <td><img src="https://img.shields.io/badge/VN-Video%20Editor-000000?style=for-the-badge&logo=video&logoColor=white" alt="VN Editor" height="28"/></td>
   </tr>
   <tr>
     <td>C++</td>

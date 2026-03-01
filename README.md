@@ -54,9 +54,9 @@
 
 ## 🚀 Projects
 
-🔹 [**Basic Calculator**](https://xyresiiic.github.io/Basic_calculator/)  -Responsive web calculator for basic arithmetic operations  
+🔹 [**Portfolio Website**](https://xyresiiic.github.io/Portfolio/)  -Minimal, animated portfolio website featuring projects, skills, and contact details
 
-🔹 [**Portfolio Website**](https://xyresiiic.github.io/Portfolio/)  -Minimal, animated portfolio website featuring projects, skills, and contact details  
+🔹 [**Basic Calculator**](https://xyresiiic.github.io/Basic_calculator/)  -Responsive web calculator for basic arithmetic operations    
 
 🔹 [**Medic Soul(health assistant)**](https://xyresiiic.github.io/madicSoul/)  - A health assistant website with chat bot and may other health related features.
 

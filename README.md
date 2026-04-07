@@ -9,12 +9,12 @@
 
 ## 🧠 About Me
 
-- 🎓 B.Tech student at Arya College of Engineering (2028)
-- 💻 Passionate about C, C++, Java, Front-End Web Development, and problem-solving
-- 🌐 Exploring HTML, CSS, Java and JavaScript for building cool projects
-- 🛠️ Completed internships at **CodSoft** & **Codalpha**
-- 📸 Skilled in **Photography, Videography, Video Editing**, and **Graphic Designing**
-- ⚡ Motto: _“Code. Click. Create.”_
+* 🎓 B.Tech student at Arya College of Engineering (2028)
+* 💻 Passionate about C, C++, Java, Front-End Web Development, and problem-solving
+* 🌐 Exploring HTML, CSS, Java and JavaScript for building cool projects
+* 🛠️ Completed internships at **CodSoft** & **Codalpha**
+* 📸 Skilled in **Photography, Videography, Video Editing**, and **Graphic Designing**
+* ⚡ Motto: *“Code. Click. Create.”*
 
 ---
 
@@ -51,55 +51,66 @@
 
 ---
 
-
 ## 🚀 Projects
 
 🔹 [**Portfolio Website**](https://xyresiiic.github.io/Portfolio/)  -Minimal, animated portfolio website featuring projects, skills, and contact details
 
-🔹 [**Basic Calculator**](https://xyresiiic.github.io/Basic_calculator/)  -Responsive web calculator for basic arithmetic operations    
+🔹 [**Content Calendar Tool**](https://xyresiiic.github.io/Content-Calandar/)  -Smart content planning tool to organize and schedule social media posts efficiently
 
-🔹 [**Medic Soul(health assistant)**](https://xyresiiic.github.io/madicSoul/)  - A health assistant website with chat bot and may other health related features.
+🔹 [**Basic Calculator**](https://xyresiiic.github.io/Basic_calculator/)  -Responsive web calculator for basic arithmetic operations
 
-🔹 [**Landing Page – Lustréva**](https://xyresiiic.github.io/Landinge-page/)  -Elegant gifting website landing page with sections like Hero, About Us, Why Us?, Collections, and Contact  
+🔹 [**Medic Soul (Health Assistant)**](https://xyresiiic.github.io/madicSoul/)  -A health assistant website with chatbot and various health-related features
 
-🔹 [**CodSoft Internship Projects**](https://github.com/xyresiiic/CODSOFT)  -C++ Console Applications:  
-🧮 Calculator • 📝 To-Do List • 🎯 Number Guessing Game  
+🔹 [**Landing Page – Lustréva**](https://xyresiiic.github.io/Landinge-page/)  -Elegant gifting website landing page with sections like Hero, About Us, Why Us?, Collections, and Contact
 
-🔹 [**CGPA Calculator**](https://github.com/xyresiiic/codealpha_projects/blob/main/cgpa%20calculator.cpp)  -Calculates academic performance with a clean UI  
+🔹 [**CodSoft Internship Projects**](https://github.com/xyresiiic/CODSOFT)  -C++ Console Applications:
+🧮 Calculator • 📝 To-Do List • 🎯 Number Guessing Game
 
-🔹 [**Login & Registration System**](https://github.com/xyresiiic/codealpha_projects/blob/main/login%26registrationsyatem.cpp)  -Basic authentication simulation using C++  
+🔹 [**CGPA Calculator**](https://github.com/xyresiiic/codealpha_projects/blob/main/cgpa%20calculator.cpp)  -Calculates academic performance with a clean UI
 
-🔹 [**Too Do List**](https://github.com/xyresiiic/CODSOFT/blob/main/TO.DO.LIST.cpp)  -Simple console-based task manager to add, view, and delete tasks using C++  
+🔹 [**Login & Registration System**](https://github.com/xyresiiic/codealpha_projects/blob/main/login%26registrationsyatem.cpp)  -Basic authentication simulation using C++
 
-🔹 [**Guess Game**](https://github.com/xyresiiic/CODSOFT/blob/main/guessgame.cpp)  -Interactive C++ game where users try to guess a randomly generated number.  
+🔹 [**To-Do List**](https://github.com/xyresiiic/CODSOFT/blob/main/TO.DO.LIST.cpp)  -Simple console-based task manager to add, view, and delete tasks using C++
 
+🔹 [**Guess Game**](https://github.com/xyresiiic/CODSOFT/blob/main/guessgame.cpp)  -Interactive C++ game where users try to guess a randomly generated number
 
+---
 
+## 🌟 Featured Work
+
+🚀 **Explore my Portfolio Website:**
+👉 [https://xyresiiic.github.io/Portfolio/](https://xyresiiic.github.io/Portfolio/)
+
+A minimal, animated portfolio showcasing my projects, skills, and creative work.
+
+💡 **Content Calendar Tool:**
+👉 [https://xyresiiic.github.io/Content-Calandar/](https://xyresiiic.github.io/Content-Calandar/)
+
+Smart content planning tool developed with the help of AI during the development process, designed to help creators, social media managers, and brands plan and schedule content efficiently like a pro.
 
 ---
 
 ## 📜 Certifications
 
-- 🛠 **Basics of Quadcopter** – *IIT Roorkee*
-- 🔐 **Blockchain Technology** – *IIT Roorkee*
-- 🌐 **Web Development Fundamentals** – *IBM*
-- 💼 **Virtual Tech Internship** – *Deloitte (Forage)*
-- 🖥️ **Softwere Engineering job simulation** - *Accenture (Forage)*
-- 💻 **Solution architecture Job Simulation** – *AWS (Forage)*
-- 🧰 **GenAI Powered Data Analytics Job Simulation** – *Tata (Forage)*
-- 🗂️ **Internship certificate in Web Development** – *Codsoft*
-- 📱 **Internship Certificate in C++ Programming** – *CodeAlpha*
+* 🛠 **Basics of Quadcopter** – *IIT Roorkee*
+* 🔐 **Blockchain Technology** – *IIT Roorkee*
+* 🌐 **Web Development Fundamentals** – *IBM*
+* 💼 **Virtual Tech Internship** – *Deloitte (Forage)*
+* 🖥️ **Software Engineering Job Simulation** – *Accenture (Forage)*
+* 💻 **Solution Architecture Job Simulation** – *AWS (Forage)*
+* 🧰 **GenAI Powered Data Analytics Job Simulation** – *Tata (Forage)*
+* 🗂️ **Internship Certificate in Web Development** – *CodSoft*
+* 📱 **Internship Certificate in C++ Programming** – *CodeAlpha*
 
 ---
 
-
 ## 📊 GitHub Stats
 
-![Veer's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyresiiic&show_icons=true&theme=tokyonight)
+![Veer's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyresiiic\&show_icons=true\&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=xyresiiic&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=xyresiiic\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xyresiiic&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xyresiiic\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -110,7 +121,6 @@
 </p>
 
 ---
-
 
 ## 📫 Contact Me
 
@@ -134,6 +144,4 @@
 ## ✨ Signature
 
 <p align="center"><b>“Code. Click. Create.”</b></p>
-<p align="center">Thanks for stopping by! 🤗 
-
-
+<p align="center">Thanks for stopping by! 🤗

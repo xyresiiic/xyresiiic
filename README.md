@@ -2,7 +2,7 @@
 <h3 align="center">C++ & Web Developer 🖥️ | Visual Storyteller 📸 | Tech Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Code.+Click.+Create.;Java+C+C%2B%2B+|+HTML+CSS+JS+|+Photography;Ex-Intern+@+CodSoft+%26+Codalpha" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Code.+Click.+Create.;Java+C+C%2B%2B+|+HTML+CSS+JS+|+Photography;Building+AI+Projects+with+Real-World+Impact;Ex-Intern+@+CodSoft+%26+Codalpha" alt="Typing SVG">
 </p>
 
 ---
@@ -10,10 +10,11 @@
 ## 🧠 About Me
 
 * 🎓 B.Tech student at Arya College of Engineering (2028)
-* 💻 Passionate about C, C++, Java, Front-End Web Development, and problem-solving
-* 🌐 Exploring HTML, CSS, Java and JavaScript for building cool projects
+* 💻 Passionate about C, C++, Java, Front-End Web Development, and AI-driven solutions
+* 🌐 Exploring HTML, CSS, JavaScript, Flask, and intelligent system design
 * 🛠️ Completed internships at **CodSoft** & **Codalpha**
 * 📸 Skilled in **Photography, Videography, Video Editing**, and **Graphic Designing**
+* 🚑 Built award-winning AI healthcare project: **AI TRIAGE PRO**
 * ⚡ Motto: *“Code. Click. Create.”*
 
 ---
@@ -22,95 +23,104 @@
 
 <table>
   <tr>
-    <td><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="40"/></td>
-    <td><img src="https://img.icons8.com/ios-filled/50/c.png" alt="C" width="40"/></td>
-   <td><img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" width="40"/></td>
-    <td><img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" width="40"/></td>
-    <td><img src="https://img.icons8.com/color/48/css3.png" alt="CSS" width="40"/></td>
-    <td><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="40"/></td>
-    <td><img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="VS Code" width="40"/></td>
-    <td><img src="https://img.icons8.com/glyph-neue/64/github.png" alt="GitHub" width="40"/></td>
-    <td><img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="Photoshop" width="40"/></td>
-    <td><img src="https://img.icons8.com/color/48/adobe-lightroom.png" alt="Lightroom" width="40"/></td>
-    <td><img src="https://img.shields.io/badge/VN-Video%20Editor-000000?style=for-the-badge&logo=video&logoColor=white" alt="VN Editor" height="28"/></td>
-  </tr>
-  <tr>
-    <td>C++</td>
-    <td>C</td>
-    <td>Java</td>
-    <td>HTML</td>
-    <td>CSS</td>
-    <td>JavaScript</td>
-    <td>VS Code</td>
-    <td>GitHub</td>
-    <td>Photoshop</td>
-    <td>Lightroom</td>
-    <td>VN Editor</td>
+    <td><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/ios-filled/50/c.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/python--v1.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/html-5--v1.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/css3.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/javascript--v1.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/glyph-neue/64/github.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" width="40"/></td>
+    <td><img src="https://img.icons8.com/color/48/adobe-lightroom.png" width="40"/></td>
+    <td><img src="https://img.shields.io/badge/VN-Video%20Editor-000000?style=for-the-badge&logo=video&logoColor=white" height="28"/></td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Project — AI TRIAGE PRO
 
-🔹 [**Portfolio Website**](https://xyresiiic.github.io/Portfolio/)  -Minimal, animated portfolio website featuring projects, skills, and contact details
+### 🚑 Multimodal Emergency Dispatch System  
+🏆 **4th Place Winner — HackNexus 2.0**
 
-🔹 [**Content Calendar Tool**](https://xyresiiic.github.io/Content-Calandar/)  -Smart content planning tool to organize and schedule social media posts efficiently
+🔗 **GitHub Repository:**  
+👉 https://github.com/xyresiiic/AI-TRIAGE-PRO-Project-
 
-🔹 [**Basic Calculator**](https://xyresiiic.github.io/Basic_calculator/)  -Responsive web calculator for basic arithmetic operations
+AI-powered healthcare emergency triage platform combining:
 
-🔹 [**Medic Soul (Health Assistant)**](https://xyresiiic.github.io/madicSoul/)  -A health assistant website with chatbot and various health-related features
+- 🎙️ Whisper AI for emergency call transcription
+- 👁️ CLIP Vision AI for injury image severity analysis
+- ⚖️ Weighted Fusion Engine for trust-based triage scoring
+- 🚨 Instant ambulance dispatch recommendation system
 
-🔹 [**Landing Page – Lustréva**](https://xyresiiic.github.io/Landinge-page/)  -Elegant gifting website landing page with sections like Hero, About Us, Why Us?, Collections, and Contact
+### 💡 Key Innovation:
+Multimodal fusion of audio + image intelligence for real-time emergency severity detection.
 
-🔹 [**CodSoft Internship Projects**](https://github.com/xyresiiic/CODSOFT)  -C++ Console Applications:
-🧮 Calculator • 📝 To-Do List • 🎯 Number Guessing Game
+### ⚙️ Built With:
+Python • Flask • Whisper • CLIP • Librosa • Transformers • HTML/CSS/JS
 
-🔹 [**CGPA Calculator**](https://github.com/xyresiiic/codealpha_projects/blob/main/cgpa%20calculator.cpp)  -Calculates academic performance with a clean UI
+---
 
-🔹 [**Login & Registration System**](https://github.com/xyresiiic/codealpha_projects/blob/main/login%26registrationsyatem.cpp)  -Basic authentication simulation using C++
+## 🚀 Other Projects
 
-🔹 [**To-Do List**](https://github.com/xyresiiic/CODSOFT/blob/main/TO.DO.LIST.cpp)  -Simple console-based task manager to add, view, and delete tasks using C++
+🔹 [**Portfolio Website**](https://xyresiiic.github.io/Portfolio/)  
+Minimal animated portfolio showcasing projects and skills
 
-🔹 [**Guess Game**](https://github.com/xyresiiic/CODSOFT/blob/main/guessgame.cpp)  -Interactive C++ game where users try to guess a randomly generated number
+🔹 [**Content Calendar Tool**](https://xyresiiic.github.io/Content-Calandar/)  
+AI-assisted smart scheduling tool for creators and brands
+
+🔹 [**Basic Calculator**](https://xyresiiic.github.io/Basic_calculator/)  
+Responsive arithmetic calculator
+
+🔹 [**Medic Soul (Health Assistant)**](https://xyresiiic.github.io/madicSoul/)  
+Healthcare assistant website with chatbot features
+
+🔹 [**Landing Page – Lustréva**](https://xyresiiic.github.io/Landinge-page/)  
+Elegant gifting website UI landing page
+
+🔹 [**CodSoft Internship Projects**](https://github.com/xyresiiic/CODSOFT)  
+Calculator • To-Do List • Guess Game
 
 ---
 
 ## 🌟 Featured Work
 
-🚀 **Explore my Portfolio Website:**
-👉 [https://xyresiiic.github.io/Portfolio/](https://xyresiiic.github.io/Portfolio/)
+🚀 **Portfolio Website:**  
+👉 https://xyresiiic.github.io/Portfolio/
 
-A minimal, animated portfolio showcasing my projects, skills, and creative work.
+💡 **Content Calendar Tool:**  
+👉 https://xyresiiic.github.io/Content-Calandar/
 
-💡 **Content Calendar Tool:**
-👉 [https://xyresiiic.github.io/Content-Calandar/](https://xyresiiic.github.io/Content-Calandar/)
+🚑 **AI TRIAGE PRO:**  
+👉 https://github.com/xyresiiic/AI-TRIAGE-PRO-Project-
 
-Smart content planning tool developed with the help of AI during the development process, designed to help creators, social media managers, and brands plan and schedule content efficiently like a pro.
+Award-winning emergency healthcare AI project built for real-world impact.
 
 ---
 
 ## 📜 Certifications
 
-* 🛠 **Basics of Quadcopter** – *IIT Roorkee*
-* 🔐 **Blockchain Technology** – *IIT Roorkee*
-* 🌐 **Web Development Fundamentals** – *IBM*
-* 💼 **Virtual Tech Internship** – *Deloitte (Forage)*
-* 🖥️ **Software Engineering Job Simulation** – *Accenture (Forage)*
-* 💻 **Solution Architecture Job Simulation** – *AWS (Forage)*
-* 🧰 **GenAI Powered Data Analytics Job Simulation** – *Tata (Forage)*
-* 🗂️ **Internship Certificate in Web Development** – *CodSoft*
-* 📱 **Internship Certificate in C++ Programming** – *CodeAlpha*
+* 🛠 Basics of Quadcopter – IIT Roorkee
+* 🔐 Blockchain Technology – IIT Roorkee
+* 🌐 Web Development Fundamentals – IBM
+* 💼 Virtual Tech Internship – Deloitte (Forage)
+* 🖥️ Software Engineering Simulation – Accenture
+* 💻 Solution Architecture Simulation – AWS
+* 🧰 GenAI Data Analytics Simulation – Tata
+* 🗂️ Web Development Internship – CodSoft
+* 📱 C++ Internship – CodeAlpha
 
 ---
 
 ## 📊 GitHub Stats
 
-![Veer's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyresiiic\&show_icons=true\&theme=tokyonight)
+![Veer's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyresiiic&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=xyresiiic\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=xyresiiic&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xyresiiic\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xyresiiic&layout=compact&theme=tokyonight)
 
 ---
 
@@ -126,16 +136,16 @@ Smart content planning tool developed with the help of AI during the development
 
 <p align="center">
   <a href="mailto:xyresiiic@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/ivee.rrr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/ivee.rrr">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/veer-pratap-singh-77702b316" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/veer-pratap-singh-77702b316">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/xyresiiic" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/xyresiiic">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
@@ -144,4 +154,4 @@ Smart content planning tool developed with the help of AI during the development
 ## ✨ Signature
 
 <p align="center"><b>“Code. Click. Create.”</b></p>
-<p align="center">Thanks for stopping by! 🤗
+<p align="center">Building intelligent systems with creativity + impact 🚀</p>

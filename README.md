@@ -26,7 +26,6 @@
     <td><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="40"/></td>
     <td><img src="https://img.icons8.com/ios-filled/50/c.png" width="40"/></td>
     <td><img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="40"/></td>
-    <td><img src="https://img.icons8.com/color/48/python--v1.png" width="40"/></td>
     <td><img src="https://img.icons8.com/color/48/html-5--v1.png" width="40"/></td>
     <td><img src="https://img.icons8.com/color/48/css3.png" width="40"/></td>
     <td><img src="https://img.icons8.com/color/48/javascript--v1.png" width="40"/></td>

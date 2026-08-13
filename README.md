@@ -192,18 +192,19 @@ flowchart LR
 
 ## 📊 GitHub Analytics
 
-
+<br><br>
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=xyresiiic&bg_color=00000000&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" width="95%" />
 
-</div>
+</div><br><br><br>
+
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=xyresiiic&theme=transparent&hide_border=true&fire=TRUE&currStreakLabel=00BFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" />
 
-</div>
+</div><br><br><br>
 
 
 <div align="center">

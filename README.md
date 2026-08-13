@@ -1,379 +1,251 @@
-👋 Hey, I'm Veer Pratap Singh
+<h1 align="center">Veer Pratap Singh</h1>
+<p align="center"><i>Cybersecurity Enthusiast · Full‑Stack Developer · AI Builder</i></p>
+
+```bash
+$ whoami
+Veer Pratap Singh — B.Tech CSE (3rd Year), Arya College of Engineering, Jaipur
+
+$ cat focus.txt
+Cybersecurity | Full-Stack Development | Applied AI
+
+$ echo $MOTTO
+"Build systems. Break assumptions. Secure everything."
+```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast+%F0%9F%94%90;C%2B%2B+%7C+Java+%7C+Web+Development;Building+Real-World+Tech+%F0%9F%9A%80;Code.+Create.+Secure." alt="Typing SVG">
-</p><p align="center">
-  <a href="https://github.com/xyresiiic">
-    <img src="https://img.shields.io/badge/GitHub-xyresiiic-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://portfolio-xyresiiic.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00BFFF?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  <a href="https://linkedin.com/in/veer-pratap-singh-77702b316">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin">
-  </a>
-</p>---
+  <a href="mailto:xyresiiic@gmail.com"><img src="https://img.shields.io/badge/Email-4F46E5?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/veer-pratap-singh-77702b316"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/xyresiiic"><img src="https://img.shields.io/badge/GitHub-4F46E5?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://portfolio-xyresiiic.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://instagram.com/ivee.rrr"><img src="https://img.shields.io/badge/Instagram-4F46E5?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
 
-🧑‍💻 About Me
+<br>
 
-🎓 3rd Year B.Tech CSE Student at Arya College of Engineering, Jaipur
-🔐 Aspiring Cyber Security Engineer
-💻 Interested in C++, Java, Web Development & Security
-🚀 Building practical projects that solve real-world problems
-🧠 Exploring Cyber Security, Networking, Secure Development & System Design
-📸 Creative background in Photography, Videography & Graphic Design
+## 🧑‍💻 About
 
-«"Build systems. Break assumptions. Secure everything."»
+3rd-year CSE student who likes taking things apart to see how they break — then building them back sturdier. Currently splitting time between full-stack web development, applied AI, and the fundamentals of cybersecurity, with a creative practice in photography and design on the side.
 
----
+- 🔐 Aspiring cybersecurity engineer, currently deepening networking and web-security fundamentals
+- 🧠 Building AI-assisted tools — from multimodal triage systems to conservation platforms
+- 🚀 Two hackathons, three internships, and a habit of shipping real, working projects
+- 📸 Photographer and designer when I'm away from the keyboard
 
-🛡️ Current Focus
+<br>
 
-C / C++
+## 🧰 Tech Stack
 
-██████████████████░░░░  85%
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,java&theme=dark" alt="C, C++, Java" height="48">
 
-Java 
+**Web Development**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, JavaScript" height="48">
+
+**Systems, Tools & Data**
+<br>
+<img src="https://skillicons.dev/icons?i=linux,git,github," alt="Linux, Git, GitHub," height="48">
 
-███████████████░░░░░░░  75%
+**Security Fundamentals**
+<br>
+<img src="https://img.shields.io/badge/Networking-1E293B?style=flat-square" alt="Networking">
+<img src="https://img.shields.io/badge/Web%20Application%20Security-1E293B?style=flat-square" alt="Web Application Security">
+<img src="https://img.shields.io/badge/SQL%20Injection%20%26%20Vulnerability%20Analysis-1E293B?style=flat-square" alt="SQLi & Vulnerability Analysis">
 
-Web Development
+<br>
+
+## 📊 Skill Proficiency
 
-████████████████░░░░░░  80%
+| Area | Level |
+|:--|:--:|
+| C / C++ | ![Advanced](https://img.shields.io/badge/Advanced-10B981?style=flat-square) |
+| Web Development | ![Proficient](https://img.shields.io/badge/Proficient-4F46E5?style=flat-square) |
+| Java | ![Proficient](https://img.shields.io/badge/Proficient-4F46E5?style=flat-square) |
+| Problem Solving | ![Proficient](https://img.shields.io/badge/Proficient-4F46E5?style=flat-square) |
+| Cyber Security | ![Learning](https://img.shields.io/badge/Learning-F59E0B?style=flat-square) |
 
-Problem Solving
+<p align="center"><br>
+<img src="https://img.shields.io/badge/Web%20Development-4F46E5?style=flat-square" alt="Web Development"> →
+<img src="https://img.shields.io/badge/AI-4F46E5?style=flat-square" alt="AI"> →
+<img src="https://img.shields.io/badge/Cyber%20Security-4F46E5?style=flat-square" alt="Cyber Security">
+<br><sub>Build applications → make them intelligent → make them secure</sub>
+</p>
 
-███████████████░░░░░░░  75%
+<br>
 
-Cyber Security
+## 🚀 Featured Projects
 
-██████░░░░░░░░░░░░░░░░  30%
+### 🛰️ WildLink AI
+*AI-powered wildlife habitat connectivity & conservation platform*
 
+A conservation-intelligence platform that identifies critical habitat corridors, prioritizes restoration areas, and simulates conservation interventions using GIS and graph-based analysis.
 
----
-
-🌐 Web Development
-
-- 🎨 Responsive & modern UI development
-- 🧩 HTML, CSS & JavaScript
-- ⚡ Interactive frontend experiences
-
----
-
-🤖 AI & Intelligent Systems
-
-- 🧠 Generative AI & AI-powered applications
-- 🎙️ Speech & audio intelligence
-- 👁️ Computer vision & multimodal AI
-- 🔗 AI + Web application integration
-- 📊 AI-assisted decision-making systems
-- 🚀 Building AI solutions for real-world problems
-
----
-
-🔐 Cyber Security
-
-- 🌐 Networking & TCP/IP fundamentals
-- 🐧 Linux & command-line environments
-- 🔎 Web application security
-- 💉 SQL Injection & common web vulnerabilities
-
----
-
-🎯 Learning Philosophy
-
-                   WEB DEVELOPMENT
-                         ↓
-                  Build Applications
-                         ↓
-                         AI
-                         ↓
-                 Make Them Intelligent
-                         ↓
-                   CYBER SECURITY
-                         ↓
-                  Make Them Secure
-
-      «Build it. Make it intelligent. Secure it.»
-
-🚀 Featured Projects
-
-🛰️ WildLink AI
-
-AI-Powered Wildlife Habitat Connectivity & Conservation Platform
-
-«🌳 AI + GIS + Graph Intelligence for Wildlife Conservation»
-
-WildLink AI is a conservation intelligence platform designed to identify critical habitat corridors, prioritize restoration areas, and simulate potential conservation interventions.
-
-✨ Key Features
-
-- 🗺️ Interactive GIS-based habitat visualization
-- 🌳 Habitat suitability analysis
-- 🔗 Wildlife corridor/connectivity analysis
-- 📊 Conservation prioritization scoring
-- 🔮 What-if restoration simulation
-- 🤖 AI/ML-assisted spatial analysis
-- 🧩 Graph-based habitat connectivity
-- 📍 Geospatial data processing
-
-🔗 Repository:
-https://github.com/xyresiiic/WildLifeAI
-
----
-
-🚑 AI TRIAGE PRO
-
-Multimodal Emergency Dispatch System
-
-🏆 4th Place — HackNexus 2.0
-
-AI TRIAGE PRO combines multiple AI modalities to help analyze emergency situations and generate intelligent triage recommendations.
-
-🧠 Core System
-
-   Emergency Audio
-          ↓
-     Whisper AI
-          ↓
-    Transcription
-          ↓
-┌───────────────────┐
-│   Fusion Engine   │
-│                   │
-│   Audio + Vision  │
-└─────────┬─────────┘
-          ↓
-   Severity Score
-          ↓
-  Emergency Response
-    Recommendation
-
-🔥 Key Features
-
-- 🎙️ Emergency call transcription using Whisper
-- 👁️ Injury image analysis using CLIP
-- ⚖️ Weighted multimodal fusion
-- 🚨 Emergency severity scoring
-- 🚑 Dispatch recommendation system
-
-🛠️ Built With
-
-"Python" "Flask" "Whisper" "CLIP"
-"Librosa" "Transformers" "HTML" "CSS" "JavaScript"
-
-🔗 Repository:
-https://github.com/xyresiiic/AI-TRIAGE-PRO-Project-
-
----
-
-💻 Other Projects
-
-🌐 Personal Portfolio
-
-Modern animated portfolio showcasing my projects, skills and creative work.
-
-🔗 https://portfolio-xyresiiic.vercel.app/
-
----
-
-Retro animated portfolio showcasing skills and creative work(Vibe Coded).
-
-🔗 https://os-portfolio-xyresiiic.vercel.app/
-
----
-
-📅 Content Calendar
-
-Smart content scheduling and planning tool designed for creators and brands.
-
-🔗 https://xyresiiic.github.io/Content-Calandar/
-
----
-
-💎 Lustréva
-
-Luxury gifting website concept focused on elegant UI, branding and responsive web design.
-
-🔗 https://xyresiiic.github.io/Landinge-page/
-
----
-
-🩺 MedicSoul
-
-Healthcare assistant website concept with chatbot-based interaction and supportive health features.
-
-🔗 https://xyresiiic.github.io/madicSoul/
-
----
-
-🧮 Basic Calculator
-
-Simple responsive calculator built to practice frontend fundamentals.
-
-🔗 https://xyresiiic.github.io/Basic_calculator/
-
----
-
-🧑‍💻 CodSoft Projects
-
-Collection of beginner-to-intermediate programming projects completed during internship.
-
-Calculator • To-Do List • Number Guessing Game
-
-🔗 https://github.com/xyresiiic/CODSOFT
-
----
-
-🧰 Tech Stack
-
-👨‍💻 Programming
-
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</p>🌐 Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>🔐 Cyber Security
-
-<p>
-  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Web%20Security-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white">
-</p>🗺️ GIS / Data Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-</p>🎨 Creative Tools
-
-"Photography" • "Videography" • "Video Editing" • "Graphic Designing"
-
-"Photoshop" • "Lightroom" • "Canva" • "VN"
-
----
-
-🏆 Achievements
-
-Achievement| Details
-🥇 HackNexus 2.0| 4th Place — AI TRIAGE PRO
-🛰️ Infinity Hacks 2026| Wildlife Conservation Track — WildLink AI
-🔐 Cyber Security Internship| Triple One Solution — 2 Months
-💻 Web Development Internship| IBM
-🌐 Web Dev + C++ Internship| CodSoft
-🧑‍💻 C++ Internship| CodeAlpha
-
----
-
-💼 Experience
-
-🔐 Cyber Security Intern — Triple One Solution
-
-Duration: 2 Months
-
-Focused on practical exposure to cybersecurity concepts, security fundamentals, vulnerability analysis and secure systems.
-
----
-
-🌐 Web Development Intern — CodSoft
-
-Worked on practical programming and frontend development projects including:
-
-- Calculator
-- To-Do List
-- Number Guessing Game
-
----
-
-💻 C++ Intern — CodeAlpha
-
-Worked on C++ programming concepts and practical development tasks.
-
----
-
-📜 Certifications
-
-- 🛠️ Basics of Quadcopter — IIT Roorkee
-- 🔐 Blockchain Technology — IIT Roorkee
-- 🌐 Web Development Fundamentals — IBM
-- 💼 Virtual Tech Internship — Deloitte
-- 🖥️ Software Engineering Simulation — Accenture
-- ☁️ Solution Architecture Simulation — AWS
-- 🤖 GenAI Data Analytics Simulation — Tata
-- 🧑‍💻 Web Development Internship — CodSoft
-- 💻 C++ Internship — CodeAlpha
-- 🤖 Prompt Design in Vertex AI — Google
-- ✨ Building Real-World AI Applications with Gemini & Imagen
-
----
-
-📊 GitHub Analytics
+```mermaid
+flowchart LR
+    A["🗺️ Geospatial Data"] --> B["Habitat Suitability Analysis"]
+    B --> C["Corridor / Connectivity Graph"]
+    C --> D["What-If Restoration Simulation"]
+    D --> E["Prioritization Score"]
+```
+
+- Interactive GIS-based habitat visualization with corridor analysis
+- Graph-based connectivity modeling between habitat patches
+- AI/ML-assisted spatial analysis and restoration simulation
+
+<img src="https://img.shields.io/badge/Python-1E293B?style=flat-square" alt="Python">
+<img src="https://img.shields.io/badge/PostGIS-1E293B?style=flat-square" alt="PostGIS">
+<img src="https://img.shields.io/badge/Leaflet-1E293B?style=flat-square" alt="Leaflet">
+<img src="https://img.shields.io/badge/Docker-1E293B?style=flat-square" alt="Docker">
+
+<a href="https://github.com/xyresiiic/WildLifeAI"><img src="https://img.shields.io/badge/View%20Repository-4F46E5?style=flat-square&logo=github&logoColor=white" alt="View Repository"></a>
+
+<br>
+
+### 🚑 AI Triage Pro
+*Multimodal emergency dispatch system — 🏆 4th Place, HackNexus 2.0*
+
+Combines speech and vision models to analyze emergency situations and generate intelligent triage recommendations in real time.
+
+```mermaid
+flowchart LR
+    A["🎙️ Emergency Audio"] --> B["Whisper Transcription"]
+    C["🖼️ Injury Image"] --> D["CLIP Vision Analysis"]
+    B --> E{"Fusion Engine"}
+    D --> E
+    E --> F["Severity Score"]
+    F --> G["🚑 Dispatch Recommendation"]
+```
+
+- Emergency call transcription via Whisper
+- Injury image analysis via CLIP
+- Weighted multimodal fusion for severity scoring and dispatch recommendations
+
+<img src="https://img.shields.io/badge/Python-1E293B?style=flat-square" alt="Python">
+<img src="https://img.shields.io/badge/Flask-1E293B?style=flat-square" alt="Flask">
+<img src="https://img.shields.io/badge/Whisper-1E293B?style=flat-square" alt="Whisper">
+<img src="https://img.shields.io/badge/CLIP-1E293B?style=flat-square" alt="CLIP">
+<img src="https://img.shields.io/badge/Transformers-1E293B?style=flat-square" alt="Transformers">
+
+<a href="https://github.com/xyresiiic/AI-TRIAGE-PRO-Project-"><img src="https://img.shields.io/badge/View%20Repository-4F46E5?style=flat-square&logo=github&logoColor=white" alt="View Repository"></a>
+
+<br>
+
+## 💻 Other Projects
+
+| Project | Description | Link |
+|:--|:--|:--:|
+| 🌐 Personal Portfolio | Modern animated portfolio showcasing projects and creative work | [Visit ↗](https://portfolio-xyresiiic.vercel.app/) |
+| 🖥️ Retro OS Portfolio | Retro, OS-themed animated portfolio (vibe-coded) | [Visit ↗](https://os-portfolio-xyresiiic.vercel.app/) |
+| 📅 Content Calendar | Smart content scheduling & planning tool for creators and brands | [Visit ↗](https://xyresiiic.github.io/Content-Calandar/) |
+| 💎 Lustréva | Luxury gifting concept site — elegant UI and branding | [Visit ↗](https://xyresiiic.github.io/Landinge-page/) |
+| 🩺 MedicSoul | Healthcare assistant concept with chatbot-based interaction | [Visit ↗](https://xyresiiic.github.io/madicSoul/) |
+| 🧮 Basic Calculator | Responsive calculator built to practice frontend fundamentals | [Visit ↗](https://xyresiiic.github.io/Basic_calculator/) |
+| 🧑‍💻 CodSoft Projects | Calculator · To-Do List · Number Guessing Game | [Repo ↗](https://github.com/xyresiiic/CODSOFT) |
+
+<br>
+
+## 🏆 Achievements
+
+| Achievement | Details |
+|:--|:--|
+| 🥇 HackNexus 2.0 | 4th Place — AI Triage Pro |
+| 🛰️ Infinity Hacks 2026 | Wildlife Conservation Track — WildLink AI |
+| 🔐 Cyber Security Internship | Triple One Solution — 2 months |
+| 💻 Web Development Internship | IBM |
+| 🌐 Web Dev + C++ Internship | CodSoft |
+| 🧑‍💻 C++ Internship | CodeAlpha |
+
+<br>
+
+## 💼 Experience
+
+| Role | Organization | Duration |
+|:--|:--|:--:|
+| Cyber Security Intern | Triple One Solution | 2 months |
+| Web Development Intern | CodSoft | 1 months |
+| C++ Intern | CodeAlpha | 1 months |
+
+**Triple One Solution** — Practical exposure to cybersecurity concepts, security fundamentals, vulnerability analysis, and secure systems.
+**CodSoft** — Practical programming and frontend development: Calculator, To-Do List, Number Guessing Game.
+**CodeAlpha** — Core C++ programming concepts and applied development tasks.
+
+<br>
+
+## 📜 Certifications
+
+| Certification | Issuer |
+|:--|:--|
+| Basics of Quadcopter | IIT Roorkee |
+| Blockchain Technology | IIT Roorkee |
+| Web Development Fundamentals | IBM |
+| Virtual Tech Internship | Deloitte |
+| Software Engineering Simulation | Accenture |
+| Solution Architecture Simulation | AWS |
+| GenAI Data Analytics Simulation | Tata |
+| Prompt Design in Vertex AI | Google |
+| Building Real-World AI Applications with Gemini & Imagen | Google |
+| Web Development Internship | CodSoft |
+| C++ Internship | CodeAlpha |
+
+<br>
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xyresiiic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyresiiic&theme=tokyonight&hide_border=true" height="180"/>
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyresiiic&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>---
-
-📈 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=xyresiiic&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=4F46E5&icon_color=06B6D4&text_color=C9D1D9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=xyresiiic&show_icons=true&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=4F46E5&icon_color=06B6D4&text_color=24292F">
+  <img src="https://github-readme-stats.vercel.app/api?username=xyresiiic&show_icons=true&hide_border=true&count_private=true&title_color=4F46E5&icon_color=06B6D4" alt="GitHub Stats" height="165">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=xyresiiic&hide_border=true&background=0D1117&ring=4F46E5&fire=06B6D4&currStreakLabel=4F46E5">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=xyresiiic&hide_border=true&background=FFFFFF&ring=4F46E5&fire=06B6D4&currStreakLabel=4F46E5">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyresiiic&hide_border=true&ring=4F46E5&fire=06B6D4" alt="GitHub Streak" height="165">
+</picture>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xyresiiic&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xyresiiic&layout=compact&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=C9D1D9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xyresiiic&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&text_color=24292F">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyresiiic&layout=compact&hide_border=true&title_color=4F46E5" alt="Top Languages" height="165">
+</picture>
+</p>
 
-📸 Beyond Code
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=xyresiiic&bg_color=0D1117&color=06B6D4&line=4F46E5&point=C9D1D9&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=xyresiiic&bg_color=FFFFFF&color=4F46E5&line=4F46E5&point=24292F&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xyresiiic&color=4F46E5&hide_border=true" alt="Contribution Graph" width="95%">
+</picture>
+</p>
 
-Technology isn't the only thing I enjoy.
+<br>
 
-I also explore:
+## 📸 Beyond Code
 
-📸 Photography
-🎥 Videography
-🎬 Video Editing
-🎨 Graphic Design
-💡 Creative Branding
+Photography, videography, and graphic design fill the time I'm not writing code — the same eye for composition and detail carries over into how I approach interfaces and products. Tools of choice: Photoshop, Lightroom, Canva, and VN.
 
-I like combining technology + visual storytelling to create experiences that are not only functional, but memorable.
+<br>
+
+## 🎯 2026 Goals
+
+![Progress](https://img.shields.io/badge/Progress-4%2F9%20complete-4F46E5?style=flat-square)
+
+- [x] Strengthen C++ & DSA
+- [x] Build real-world projects
+- [x] Explore cyber security
+- [x] Participate in hackathons
+- [ ] Learn networking fundamentals in depth
+- [ ] Become industry-ready
+- [ ] Build advanced security projects
+- [ ] Contribute to open source
+- [ ] Land a cyber security role
 
 ---
 
-🎯 2026 Goals
-
-☑ Strengthen C++ & DSA
-☑ Build real-world projects
-☑ Explore Cyber Security
-☑ Learn networking fundamentals
-☑ Participate in hackathons
-☐ Become industry-ready
-☐ Build advanced security projects
-☐ Contribute to open source
-☐ Land a Cyber Security role
-
----
-
-📫 Let's Connect
-
-<p align="center"><a href="mailto:xyresiiic@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><a href="https://linkedin.com/in/veer-pratap-singh-77702b316">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="https://github.com/xyresiiic">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://instagram.com/ivee.rrr">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a></p>---
-
-<p align="center">🚀 Code. Create. Secure.
-
-Building technology with creativity, curiosity & real-world impact.
-
-<img src="https://komarev.com/ghpvc/?username=xyresiiic&label=Profile%20Views&color=0e75b6&style=flat"/></p>
+<p align="center"><sub>Always open to conversations about security, AI, and building useful things.</sub></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xyresiiic&label=Profile%20Views&color=4F46E5&style=flat-square" alt="Profile views">
+</p>

@@ -192,26 +192,12 @@ flowchart LR
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=xyresiiic&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=4F46E5&icon_color=06B6D4&text_color=C9D1D9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=xyresiiic&show_icons=true&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=4F46E5&icon_color=06B6D4&text_color=24292F">
-  <img src="https://github-readme-stats.vercel.app/api?username=xyresiiic&show_icons=true&hide_border=true&count_private=true&title_color=4F46E5&icon_color=06B6D4" alt="GitHub Stats" height="165">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=xyresiiic&hide_border=true&background=0D1117&ring=4F46E5&fire=06B6D4&currStreakLabel=4F46E5">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=xyresiiic&hide_border=true&background=FFFFFF&ring=4F46E5&fire=06B6D4&currStreakLabel=4F46E5">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xyresiiic&hide_border=true&ring=4F46E5&fire=06B6D4" alt="GitHub Streak" height="165">
-</picture>
-</p>
+<div align="center">
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xyresiiic&layout=compact&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=C9D1D9">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xyresiiic&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&text_color=24292F">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyresiiic&layout=compact&hide_border=true&title_color=4F46E5" alt="Top Languages" height="165">
-</picture>
-</p>
+<img src="https://streak-stats.demolab.com?user=xyresiiic&theme=transparent&hide_border=true&fire=TRUE&currStreakLabel=00BFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" />
+
+</div>
+
 
 <p align="center">
 <picture>

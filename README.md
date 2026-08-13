@@ -30,21 +30,27 @@
 🛡️ Current Focus
 
 C / C++
+
 ██████████████████░░░░  85%
 
-Java
+Java 
+
 ███████████████░░░░░░░  75%
 
 Web Development
+
 ████████████████░░░░░░  80%
 
 Problem Solving
+
 ███████████████░░░░░░░  75%
 
 Cyber Security
+
 ██████░░░░░░░░░░░░░░░░  30%
 
-🚀 Current Focus
+
+---
 
 🌐 Web Development
 
@@ -76,19 +82,19 @@ Cyber Security
 
 🎯 Learning Philosophy
 
-WEB DEVELOPMENT
-      ↓
-Build Applications
-      ↓
-     AI
-      ↓
-Make Them Intelligent
-      ↓
-   CYBER SECURITY
-      ↓
-Make Them Secure
+                   WEB DEVELOPMENT
+                         ↓
+                  Build Applications
+                         ↓
+                         AI
+                         ↓
+                 Make Them Intelligent
+                         ↓
+                   CYBER SECURITY
+                         ↓
+                  Make Them Secure
 
-«Build it. Make it intelligent. Secure it.»
+      «Build it. Make it intelligent. Secure it.»
 
 🚀 Featured Projects
 
@@ -111,19 +117,6 @@ WildLink AI is a conservation intelligence platform designed to identify critica
 - 🧩 Graph-based habitat connectivity
 - 📍 Geospatial data processing
 
-⚙️ Technology
-
-"React" "JavaScript" "HTML" "CSS"
-"Leaflet / MapLibre"
-"FastAPI" "PostgreSQL" "PostGIS"
-"GeoPandas" "Rasterio" "Shapely"
-"NetworkX" "Scikit-learn"
-"Docker" "REST APIs" "JWT"
-
-🏆 Hackathon
-
-Infinity Hacks 2026 — Wildlife Conservation Track
-
 🔗 Repository:
 https://github.com/xyresiiic/WildLifeAI
 
@@ -139,22 +132,22 @@ AI TRIAGE PRO combines multiple AI modalities to help analyze emergency situatio
 
 🧠 Core System
 
-Emergency Audio
-       ↓
-   Whisper AI
-       ↓
-   Transcription
-       ↓
+   Emergency Audio
+          ↓
+     Whisper AI
+          ↓
+    Transcription
+          ↓
 ┌───────────────────┐
 │   Fusion Engine   │
 │                   │
-│ Audio + Vision    │
+│   Audio + Vision  │
 └─────────┬─────────┘
           ↓
    Severity Score
           ↓
- Emergency Response
- Recommendation
+  Emergency Response
+    Recommendation
 
 🔥 Key Features
 
@@ -181,6 +174,12 @@ https://github.com/xyresiiic/AI-TRIAGE-PRO-Project-
 Modern animated portfolio showcasing my projects, skills and creative work.
 
 🔗 https://portfolio-xyresiiic.vercel.app/
+
+---
+
+Retro animated portfolio showcasing skills and creative work(Vibe Coded).
+
+🔗 https://os-portfolio-xyresiiic.vercel.app/
 
 ---
 
@@ -268,7 +267,8 @@ Achievement| Details
 🥇 HackNexus 2.0| 4th Place — AI TRIAGE PRO
 🛰️ Infinity Hacks 2026| Wildlife Conservation Track — WildLink AI
 🔐 Cyber Security Internship| Triple One Solution — 2 Months
-💻 Web Development Internship| CodSoft
+💻 Web Development Internship| IBM
+🌐 Web Dev + C++ Internship| CodSoft
 🧑‍💻 C++ Internship| CodeAlpha
 
 ---

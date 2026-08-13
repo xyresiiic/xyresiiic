@@ -192,6 +192,13 @@ flowchart LR
 
 ## 📊 GitHub Analytics
 
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xyresiiic&bg_color=00000000&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" width="95%" />
+
+</div>
+
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=xyresiiic&theme=transparent&hide_border=true&fire=TRUE&currStreakLabel=00BFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" />
@@ -199,15 +206,11 @@ flowchart LR
 </div>
 
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=xyresiiic&bg_color=0D1117&color=06B6D4&line=4F46E5&point=C9D1D9&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=xyresiiic&bg_color=FFFFFF&color=4F46E5&line=4F46E5&point=24292F&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xyresiiic&color=4F46E5&hide_border=true" alt="Contribution Graph" width="95%">
-</picture>
-</p>
+<div align="center">
 
-<br>
+<img src="https://ghchart.rshah.org/22c55e/xyresiiic" alt="GitHub Contribution Graph" />
+
+</div>
 
 ## 📸 Beyond Code
 

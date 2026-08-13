@@ -204,14 +204,7 @@ flowchart LR
 
 <img src="https://streak-stats.demolab.com?user=xyresiiic&theme=transparent&hide_border=true&fire=TRUE&currStreakLabel=00BFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="70%" />
 
-</div><br><br><br>
-
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/22c55e/xyresiiic" alt="GitHub Contribution Graph" />
-
-</div>
+</div><br><br>
 
 ## 📸 Beyond Code
 

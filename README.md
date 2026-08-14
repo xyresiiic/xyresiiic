@@ -83,10 +83,10 @@ A conservation-intelligence platform that identifies critical habitat corridors,
 
 ```mermaid
 flowchart LR
-    A["🗺️ Geospatial Data"] --> B["Habitat Suitability Analysis"]
-    B --> C["Corridor / Connectivity Graph"]
-    C --> D["What-If Restoration Simulation"]
-    D --> E["Prioritization Score"]
+    A["🗺️ Geospatial Data"] --> B["🌍 Habitat Suitability Analysis"]
+    B --> C["🔗 Corridor & Connectivity Graph"]
+    C --> D["🔄 What-If Restoration Simulation"]
+    D --> E["🎯 Prioritization Score"]
 ```
 
 - Interactive GIS-based habitat visualization with corridor analysis

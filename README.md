@@ -16,7 +16,7 @@ $ echo $MOTTO
   <a href="mailto:xyresiiic@gmail.com"><img src="https://img.shields.io/badge/Email-4F46E5?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/veer-pratap-singh-77702b316"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/xyresiiic"><img src="https://img.shields.io/badge/GitHub-4F46E5?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://portfolio-xyresiiic.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://os-portfolio-xyresiiic.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://instagram.com/ivee.rrr"><img src="https://img.shields.io/badge/Instagram-4F46E5?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
@@ -256,11 +256,10 @@ Photography, videography, and graphic design fill the time I'm not writing code 
 - [x] Build real-world projects
 - [x] Explore cyber security
 - [x] Participate in hackathons
-- [ ] Learn networking fundamentals in depth
+- [x] Contribute to open source
+- [ ] Land a cyber security role
 - [ ] Become industry-ready
 - [ ] Build advanced security projects
-- [ ] Contribute to open source
-- [ ] Land a cyber security role
 
 ---
 

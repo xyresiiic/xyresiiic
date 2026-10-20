@@ -76,29 +76,41 @@ $ echo $MOTTO
 
 ## 🚀 Featured Projects
 
-### 🛰️ WildLink AI
-*AI-powered wildlife habitat connectivity & conservation platform*
+### 🏫 CampusPass
+*Smart Campus Attendance System — SKIT College Hackathon Project*
 
-A conservation-intelligence platform that identifies critical habitat corridors, prioritizes restoration areas, and simulates conservation interventions using GIS and graph-based analysis.
+A mobile-first attendance management system that combines face verification and GPS geofencing to help college staff mark attendance directly from their phones, reducing queues and congestion at the campus gate.
 
 ```mermaid
 flowchart LR
-    A["🗺️ Geospatial Data"] --> B["🌍 Habitat Suitability Analysis"]
-    B --> C["🔗 Corridor & Connectivity Graph"]
-    C --> D["🔄 What-If Restoration Simulation"]
-    D --> E["🎯 Prioritization Score"]
+    A["📱 Staff Login"] --> B["📸 Live Camera Capture"]
+    B --> C["🧑 Face Verification"]
+    C --> D{"📍 Location Check"}
+    D -->|Inside Campus| E["✅ Attendance Check-in/out"]
+    D -->|Outside Campus| F["❌ Access Denied"]
+    E --> G["🖥️ Admin Dashboard"]
+    G --> H["📊 Attendance Records"]
 ```
 
-- Interactive GIS-based habitat visualization with corridor analysis
-- Graph-based connectivity modeling between habitat patches
-- AI/ML-assisted spatial analysis and restoration simulation
+- Secure staff login and attendance check-in/check-out
+- Live camera-based face verification for staff identity
+- GPS geofencing to restrict attendance to the approved campus area
+- Admin dashboard for monitoring staff attendance and reviewing records
+- React frontend with a FastAPI backend and database integration
 
-<img src="https://img.shields.io/badge/Python-1E293B?style=flat-square" alt="Python">
-<img src="https://img.shields.io/badge/PostGIS-1E293B?style=flat-square" alt="PostGIS">
-<img src="https://img.shields.io/badge/Leaflet-1E293B?style=flat-square" alt="Leaflet">
-<img src="https://img.shields.io/badge/Docker-1E293B?style=flat-square" alt="Docker">
+**Tech Stack**
 
-<a href="https://github.com/xyresiiic/WildLifeAI"><img src="https://img.shields.io/badge/View%20Repository-4F46E5?style=flat-square&logo=github&logoColor=white" alt="View Repository"></a>
+<img src="https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+<img src="https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI">
+<img src="https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
+<img src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/Vercel-1E293B?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+<img src="https://img.shields.io/badge/Render-1E293B?style=flat-square&logo=render&logoColor=white" alt="Render">
+
+<a href="https://github.com/xyresiiic/CampusPass-IGNITE"><img src="https://img.shields.io/badge/View%20Repository-4F46E5?style=flat-square&logo=github&logoColor=white" alt="View Repository"></a>
+
+**Project Status:** 🚀 Hackathon Project | Built for SKIT College
 
 <br>
 
@@ -128,6 +140,34 @@ flowchart LR
 <img src="https://img.shields.io/badge/Transformers-1E293B?style=flat-square" alt="Transformers">
 
 <a href="https://github.com/xyresiiic/AI-TRIAGE-PRO-Project-"><img src="https://img.shields.io/badge/View%20Repository-4F46E5?style=flat-square&logo=github&logoColor=white" alt="View Repository"></a>
+
+
+### 🛰️ WildLink AI
+*AI-powered wildlife habitat connectivity & conservation platform*
+
+A conservation-intelligence platform that identifies critical habitat corridors, prioritizes restoration areas, and simulates conservation interventions using GIS and graph-based analysis.
+
+```mermaid
+flowchart LR
+    A["🗺️ Geospatial Data"] --> B["🌍 Habitat Suitability Analysis"]
+    B --> C["🔗 Corridor & Connectivity Graph"]
+    C --> D["🔄 What-If Restoration Simulation"]
+    D --> E["🎯 Prioritization Score"]
+```
+
+- Interactive GIS-based habitat visualization with corridor analysis
+- Graph-based connectivity modeling between habitat patches
+- AI/ML-assisted spatial analysis and restoration simulation
+
+<img src="https://img.shields.io/badge/Python-1E293B?style=flat-square" alt="Python">
+<img src="https://img.shields.io/badge/PostGIS-1E293B?style=flat-square" alt="PostGIS">
+<img src="https://img.shields.io/badge/Leaflet-1E293B?style=flat-square" alt="Leaflet">
+<img src="https://img.shields.io/badge/Docker-1E293B?style=flat-square" alt="Docker">
+
+<a href="https://github.com/xyresiiic/WildLifeAI"><img src="https://img.shields.io/badge/View%20Repository-4F46E5?style=flat-square&logo=github&logoColor=white" alt="View Repository"></a>
+
+
+
 
 ### 🏫 ShikshaVerifyAI — *Work in Progress*
 **AI · Computer Vision · Attendance Verification**
@@ -161,7 +201,6 @@ An AI-powered school attendance verification platform built to confirm that teac
 | Achievement | Details |
 |:--|:--|
 | 🥇 HackNexus 2.0 | 4th Place — AI Triage Pro |
-| 🛰️ Infinity Hacks 2026 | Wildlife Conservation Track — WildLink AI |
 | 🔐 Cyber Security Internship | Triple One Solution — 2 months |
 | 💻 Web Development Internship | IBM |
 | 🌐 Web Dev + C++ Internship | CodSoft |

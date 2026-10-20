@@ -110,7 +110,7 @@ flowchart LR
 
 <a href="https://github.com/xyresiiic/CampusPass-IGNITE"><img src="https://img.shields.io/badge/View%20Repository-4F46E5?style=flat-square&logo=github&logoColor=white" alt="View Repository"></a>
 
-**Project Status:** 🚀 Hackathon Project | Built for SKIT College
+**Project Status:** 🚀 Completed Hackathon Project | Built for SKIT College
 
 <br>
 
@@ -165,20 +165,6 @@ flowchart LR
 <img src="https://img.shields.io/badge/Docker-1E293B?style=flat-square" alt="Docker">
 
 <a href="https://github.com/xyresiiic/WildLifeAI"><img src="https://img.shields.io/badge/View%20Repository-4F46E5?style=flat-square&logo=github&logoColor=white" alt="View Repository"></a>
-
-
-
-
-### 🏫 ShikshaVerifyAI — *Work in Progress*
-**AI · Computer Vision · Attendance Verification**
-
-An AI-powered school attendance verification platform built to confirm that teacher attendance submissions are genuine and made from the correct school environment.
-
-- Designing a system to analyze teacher-submitted **selfie images** for attendance verification
-- Exploring image-based verification techniques to confirm photos were captured within assigned school premises
-- Planned integration of **school-specific visual references, image analysis, and verification logic** to reduce fraudulent submissions
-- Built with scalability in mind for educational institutions and centralized attendance monitoring
-- 🏆 Currently under development as an **SIH project**
 
 <br>
 

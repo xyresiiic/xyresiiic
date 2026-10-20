@@ -250,7 +250,7 @@ Photography, videography, and graphic design fill the time I'm not writing code 
 
 ## 🎯 2026 Goals
 
-![Progress](https://img.shields.io/badge/Progress-4%2F9%20complete-4F46E5?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-5%2F8%20complete-4F46E5?style=flat-square)
 
 - [x] Strengthen C++ & DSA
 - [x] Build real-world projects

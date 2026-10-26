@@ -28,7 +28,7 @@ $ echo $MOTTO
 
 - 🔐 Aspiring cybersecurity engineer, currently deepening networking and web-security fundamentals
 - 🧠 Building AI-assisted tools — from multimodal triage systems to conservation platforms
-- 🚀 Two hackathons, three internships, and a habit of shipping real, working projects
+- 🚀 Four internships, five hackathons and a habit of shipping real, working projects
 - 📸 Photographer and designer when I'm away from the keyboard
 
 <br>

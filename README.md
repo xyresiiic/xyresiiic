@@ -141,31 +141,6 @@ flowchart LR
 
 <a href="https://github.com/xyresiiic/AI-TRIAGE-PRO-Project-"><img src="https://img.shields.io/badge/View%20Repository-4F46E5?style=flat-square&logo=github&logoColor=white" alt="View Repository"></a>
 
-
-### 🛰️ WildLink AI
-*AI-powered wildlife habitat connectivity & conservation platform*
-
-A conservation-intelligence platform that identifies critical habitat corridors, prioritizes restoration areas, and simulates conservation interventions using GIS and graph-based analysis.
-
-```mermaid
-flowchart LR
-    A["🗺️ Geospatial Data"] --> B["🌍 Habitat Suitability Analysis"]
-    B --> C["🔗 Corridor & Connectivity Graph"]
-    C --> D["🔄 What-If Restoration Simulation"]
-    D --> E["🎯 Prioritization Score"]
-```
-
-- Interactive GIS-based habitat visualization with corridor analysis
-- Graph-based connectivity modeling between habitat patches
-- AI/ML-assisted spatial analysis and restoration simulation
-
-<img src="https://img.shields.io/badge/Python-1E293B?style=flat-square" alt="Python">
-<img src="https://img.shields.io/badge/PostGIS-1E293B?style=flat-square" alt="PostGIS">
-<img src="https://img.shields.io/badge/Leaflet-1E293B?style=flat-square" alt="Leaflet">
-<img src="https://img.shields.io/badge/Docker-1E293B?style=flat-square" alt="Docker">
-
-<a href="https://github.com/xyresiiic/WildLifeAI"><img src="https://img.shields.io/badge/View%20Repository-4F46E5?style=flat-square&logo=github&logoColor=white" alt="View Repository"></a>
-
 <br>
 
 ## 💻 Other Projects
